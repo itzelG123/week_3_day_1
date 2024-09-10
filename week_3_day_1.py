@@ -51,22 +51,40 @@
 # # Review
 # create variables for the following :
 # 1. age
+age= 97 #integer variable
 # 2. name
+name="Emily" #string variable
 # 3. song
+song="happy birthday" #stirng variable
 # 4. food
+food="grapes" #string variable
 # 5. number
+number=150 #integar variable
 
 
 # #now include the variables you just made print in the following...
 
 
 # Once upon a time, there was a [age] old coder named [name].
-
+print("Once upon a time, there was a " + str(age) + " year old coder named " +name+".")
 
 # [name] liked to hum the song [song] while coding. It was so annoying that their teammates would throw [food] until [name] would stop singing.
-
+print(name + "liked to hum the song "+song+" while coding. It was so annoying that their teammates would throw "+ food+ " until " +name+" would stop singing.")
 
 # Still, [name] was the best coder on the team and could write [number] lines of code every day. Maybe [song] was [name]’s secret power?
+
+
+
+
+# number1=100
+# number2=200
+# number3=300
+# number4=400
+# number5=500
+#put in one sentence
+# print(" emily has "+str(number1)+" dogs," +str(number2)+" cats,"+str(number3)+" birds,"+str(number4)+ " fish and "+str(number5)+" hamsters.")
+#f string
+# print(f"{number1},{number2}")
 ##########################################################################################
 
 
