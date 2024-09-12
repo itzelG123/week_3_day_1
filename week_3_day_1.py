@@ -122,12 +122,26 @@ print(name + "liked to hum the song "+song+" while coding. It was so annoying th
 
 
 # 1st_name
+#first_name
+
 # last name
+#last_name
+
 # email@address
+#email_address
+
 # percent%
+#percent
+
 # variable#name
+#variable_name
+
 # O
+#zero
+
 # list
+#list_of_things
+
 # Creating Valid Names: Create valid names for the following descriptions:
 
 
@@ -148,10 +162,10 @@ print(name + "liked to hum the song "+song+" while coding. It was so annoying th
 # email_address
 # percentage
 # variable_name
-# 1_variable
-# email@address
-# percentage%
-# i
+# first_variable
+# email_address
+# percentage
+# itzel
 
 
 
